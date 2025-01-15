@@ -7,3 +7,6 @@ html, body {
     padding: 0;
   }
   
+#taskList::-webkit-scrollbar{
+  display: none;
+}
